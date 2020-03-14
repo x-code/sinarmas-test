@@ -7,7 +7,7 @@ node app.js
 
 ### Postman
 ```markdown
-https://www.getpostman.com/collections/63d424f32c3871e2a230
+https://www.getpostman.com/collections/262a8131800e8a86dc0e
 ```
 
 ### Get Nilai by ID Nilai
@@ -27,7 +27,7 @@ Endpoint : http://localhost:3001/employee
 Set your payload :
 ```markdown
 {
-"id":11,
+"id":40,
 "employes": [{
     "employe_id" : 2,
     "supervisor_id" : 11,
