@@ -60,7 +60,7 @@ app.post('/nilai/', (req, res, next) => {
 
 // Nomor 2
 app.post('/employee', (req, res, next) => {
-  const n = req.body.id; //11
+  const n = req.body.id; //40
   const employes =  req.body.employes;
   var getEmployee = filterEmployee(employes,n);
   console.log(getEmployee);
